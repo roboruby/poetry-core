@@ -1,3 +1,5 @@
+> **Archived.** Development of poetry-core continues in the Poetry monorepo at [roboruby/poetry](https://github.com/roboruby/poetry), under [`gems/poetry-core`](https://github.com/roboruby/poetry/tree/main/gems/poetry-core). This repository keeps the history and tags up to 0.1.5 and is read-only.
+
 # poetry-core
 
 The Rails engine, component DSL, and primitives that power **[poetry](https://github.com/roboruby/poetry)** — the AI-native, Rails-first component library. This gem is the *framework* layer (the engine, the `Component` base class plus the Styles/Options DSL, the Stimulus integration, the preview infrastructure). The components themselves live in `poetry-ui`.
